@@ -1,10 +1,9 @@
-<h1 align="center"> Oiii! 👋 Eu sou Lucas Carvalho </h1>
-<p align="center">🚀 Estudante de Engenharia de Computação na POLI-USP e fã de tecnologia</p>
+<h1 align="center"> Oiii! 👋 me chamo Lucas </h1>
+<p align="center">🚀 Estudante de Engenharia de Computação na POLI-USP!</p>
 
-- 👩‍💻 Possuo interesse em Desenvolvimento de Software
-- 👩‍🚀 Interesse em projetos de Engenharia
-- 👨‍🎓 Sempre aprendendo algo novo
-- 📫 Pode me encontrar no Linkedin @lucascarvalho
+- 👩‍💻 Possuo interesse em Desenvolvimento de Softwares
+- 👩‍🚀 Projetos de Engenharia
+- 🎓 Sempre aprendendo algo novo por aí... 👀
 
 </br> 
  <div align="center">
@@ -17,12 +16,11 @@
  
  <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
- 
+  
 </div>
 
 <br> <br>
