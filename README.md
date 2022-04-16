@@ -3,10 +3,10 @@
  # Oiii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> me chamo Lucas!
  
  </div>
-<p align="center">🚀 Engenharia de Computação e Desenvolvimento de Software!!!</p>
+<p align="center">:rocket: Engenharia de Computação e Desenvolvimento de Software!!!</p>
 
-- 👩‍💻 Possuo interesse em Desenvolvimento Web
-- 👩‍🚀 Projetos de Engenharia e Física
+- 🎯 Possuo interesse em Desenvolvimento Web
+- :zap: Projetos de Engenharia e Física
 - 🎓 Sempre aprendendo algo novo por aí... 👀
 
 </br> 
