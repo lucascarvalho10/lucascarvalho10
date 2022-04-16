@@ -1,15 +1,19 @@
-<h1 align="center"> Oiii! 👋 me chamo Lucas </h1>
-<p align="center">🚀 Estudante de Engenharia de Computação na POLI-USP!</p>
+ <div align="center" justify="center"> 
+ 
+ # Oiii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> me chamo Lucas!
+ 
+ </div>
+<p align="center">🚀 Engenharia de Computação e Desenvolvimento de Software!!!</p>
 
-- 👩‍💻 Possuo interesse em Desenvolvimento de Softwares
-- 👩‍🚀 Projetos de Engenharia
+- 👩‍💻 Possuo interesse em Desenvolvimento Web
+- 👩‍🚀 Projetos de Engenharia e Física
 - 🎓 Sempre aprendendo algo novo por aí... 👀
 
 </br> 
  <div align="center" justify="center">
   <a href="https://github.com/lucascarvalho10"> </a>
   <img height="180em" width="480px" src="https://github-readme-stats.vercel.app/api?username=lucascarvalho10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascarvalho10&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascarvalho10&layout=compact&langs_count=5&theme=dracula&hide=java,vhdl, c"/>
 </div>
   
  </br> 
@@ -29,6 +33,9 @@
   <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 </div>
+
+<hr>
+
 <!---
 lucascarvalho10/lucascarvalho10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
