@@ -1,9 +1,9 @@
  <div align="center" justify="center"> 
  
- # Oiii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> me chamo Lucas!
+ # Oiii! 👋 me chamo Lucas!
  
  </div>
-<p align="center">:rocket: Engenharia de Computação e Desenvolvimento de Software!!!</p>
+<p align="center">:rocket: Engenharia e Desenvolvimento de Software!!!</p>
 
 - 🎯 Possuo interesse em Desenvolvimento Web
 - :zap: Projetos de Engenharia e Física
