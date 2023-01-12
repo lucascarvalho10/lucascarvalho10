@@ -6,6 +6,7 @@
 <p align="center">:rocket: Engenharia e Desenvolvimento de Software!!!</p>
 
 - 🎯 Possuo interesse em Desenvolvimento Web
+- ✨ Inovação e Empreendedorismo
 - :zap: Projetos de Engenharia e Física
 - 🎓 Sempre aprendendo algo novo por aí... 👀
 
@@ -13,12 +14,11 @@
  <div align="center" justify="center">
   <a href="https://github.com/lucascarvalho10"> </a>
   <img height="180em" width="480px" src="https://github-readme-stats.vercel.app/api?username=lucascarvalho10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascarvalho10&layout=compact&langs_count=5&theme=dracula&hide=java,vhdl, c"/>
 </div>
   
  </br> 
  
- <div style="display: inline_block"  align="center"><br>
+ <div style="display: inline_block"  ><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
