@@ -5,10 +5,9 @@
  </div>
 <p align="center">:rocket: Engenharia e Desenvolvimento de Software!!!</p>
 
-- 🎯 Possuo interesse em Desenvolvimento Web
+- 🎯 Desenvolvimento Web
 - ✨ Inovação e Empreendedorismo
-- :zap: Projetos de Engenharia e Física
-- 🎓 Sempre aprendendo algo novo por aí... 👀
+- :zap: Projetinhos
 
 </br> 
  <div align="center" justify="center">
