@@ -1,6 +1,6 @@
 ## Oiii eu sou o Lucas Carvalho, estudante de engenhaira mecânica na poli-usp!
 
-Criei esse perfil pensando muito em conseguir organizar as matérias de **computação** da faculdade, com ênfase especial em cálculo numérico e Algoritomos & Estruturas de dados, dá olhada no [site](https://www.ime.usp.br/~map3121/)
+Criei esse perfil pensando muito em conseguir organizar as matérias de **computação** da faculdade, com ênfase especial em Algoritomos & Estruturas de dados, dá olhada no [site](https://www.ime.usp.br/~map3121/)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
