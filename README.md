@@ -1,4 +1,4 @@
-## Oiii me chamo Lucas, sou estudante de engenhaira mecânica na poli-usp!
+## Oiii me chamo Lucas, sou estudante de engenharia mecânica na poli-usp!
 
 Criei esse perfil pensando muito em conseguir organizar as matérias de **computação** da faculdade, com ênfase especial em Algoritomos & Estruturas de dados, bem como na documentação da minha iniciação científica na faculdade, focada em machine learning.
 
